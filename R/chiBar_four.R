@@ -1,4 +1,4 @@
-#' chiBar values of `nnadic` Test Data
+#' chiBar values of `nnadic` test data
 #'
 #' chiBar values for each data set in the test data. Ones indicate the data
 #'   were from the logistic model (asymptotically dependent). Zeros
