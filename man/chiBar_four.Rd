@@ -3,7 +3,7 @@
 \docType{data}
 \name{chiBar_four}
 \alias{chiBar_four}
-\title{chiBar values of \code{nnadic} Test Data}
+\title{chiBar values of \code{nnadic} test data}
 \format{
 \subsection{\code{chiBar_four}}{
 

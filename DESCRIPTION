@@ -1,12 +1,14 @@
 Package: nnadicTestData
-Title: What the Package Does (One Line, Title Case)
+Title: Contains the testing, training, and validation data used in nnadic's 
+development
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Troy", "Wixson", , "troy.wixson12@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0007-8238-3154"))
+Description: Contains the testing, training, and validation data used in nnadic's 
+development. Additionally contains the dependence parameters and asymmetry 
+parameters for the test data. 
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
