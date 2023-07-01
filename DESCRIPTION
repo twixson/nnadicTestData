@@ -3,10 +3,8 @@ Title: Contains the testing, training, and validation data used in nnadic's
 development
 Version: 0.0.0.9000
 Authors@R: 
-    person("Troy", "Wixson", , "troy.wixson12@gmail.com", role = c("aut", "cre"),
-    comment = c(ORCID = "0009-0007-8238-3154"))
-Description: Contains the testing, training, and validation data used in 
-    nnadic's development with dependence and asymmetry parameters
+    person("Troy", "Wixson", , "troy.wixson12@gmail.com", role = c("aut", "cre"), comment = c(ORCID = "0009-0007-8238-3154"))
+Description: Contains the testing, training, and validation data used in nnadic's development with dependence and asymmetry parameters
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
