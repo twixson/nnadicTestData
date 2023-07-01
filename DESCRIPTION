@@ -2,12 +2,12 @@ Package: nnadicTestData
 Title: Contains the testing, training, and validation data used in nnadic's 
 development
 Version: 0.0.0.9000
-Authors@R: 
+Authors@R:
     person("Troy", "Wixson", , "troy.wixson12@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0009-0007-8238-3154"))
-Description: Contains the testing, training, and validation data used in nnadic's 
-development. Additionally contains the dependence parameters and asymmetry 
-parameters for the test data. 
+Description: Contains the testing, training, and validation data used in 
+    nnadic's development. Additionally contains the dependence parameters and 
+    asymmetry parameters for the test data. 
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
